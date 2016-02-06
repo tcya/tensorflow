@@ -1,3 +1,5 @@
+I trained a 6 layers ConvNet on [notMNIST](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html) dataset and achieved 95% accuracy. The changes are in tensorflow/examples/udacity/. This is part of the assignment of [Deep Learning](https://www.udacity.com/course/viewer#!/c-ud730) course on Udacity.
+
 #TensorFlow
 
 Linux CPU [![Build Status](http://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master)](http://ci.tensorflow.org/job/tensorflow-master)
